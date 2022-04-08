@@ -7,6 +7,6 @@ Assignment Information in file: Midterm_2020.pdf
 Objective: Optimize portfolio management for 5 possible stocks.
 
 Models compared: 
-  1. 3 months in 2020
-  2. 5 year span until 2020
+  1. 3 month stock data in 2020
+  2. 5 year span stock data until 2020
 
